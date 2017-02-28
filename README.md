@@ -1,0 +1,1 @@
+.NET wrapper around Azure Service Bus Entity Metrics REST APIs
