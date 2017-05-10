@@ -54,6 +54,12 @@
       <SubType>Component</SubType>
     </Compile>
     <Compile Include="DataPoint.cs" />
+    <Compile Include="QueueMetrics.cs" />
+    <Compile Include="SubscriptionMetrics.cs" />
+    <Compile Include="SubscriptionStatistics.cs" />
+    <Compile Include="TopicMetrics.cs" />
+    <Compile Include="TopicStatistics.cs" />
+    <Compile Include="StatisticsBase.cs" />
     <Compile Include="QueueStatistics.cs" />
   </ItemGroup>
   <ItemGroup>

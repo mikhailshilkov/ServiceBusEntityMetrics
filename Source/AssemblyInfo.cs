@@ -2,5 +2,5 @@
 
 [assembly: AssemblyTitle("MikhailIo.ServiceBusEntityMetrics")]
 [assembly: AssemblyProduct("MikhailIo.ServiceBusEntityMetrics")]
-[assembly: AssemblyVersion("0.1.2")]
-[assembly: AssemblyFileVersion("0.1.2")]
+[assembly: AssemblyVersion("0.2.0")]
+[assembly: AssemblyFileVersion("0.2.0")]
